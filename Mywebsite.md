@@ -1,1 +1,1 @@
-![myresturant](/assets/resturant.png)
+![myresturant](./assets/imageRes.png)
